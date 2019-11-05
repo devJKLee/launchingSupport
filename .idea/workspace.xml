@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20ab8e0e-0008-4a86-8964-8c02a3fd7d2e" name="Default" comment="1)" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="72" lean-forward="true" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bg</find>
+      <find>fs</find>
+      <find>readFile</find>
+      <find>time</find>
+      <find>nodemon</find>
+      <find>http</find>
+      <find>status</find>
+      <find>database</find>
+      <find>GUID</find>
+      <find>guid</find>
+      <find>다운로드</find>
+      <find>zip</find>
+      <find>getZipFile</find>
+      <find>cca624d17e247e7fe2b3c4f1f46b5faa</find>
+      <find>gm</find>
+      <find>path</find>
+      <find>thumbnail</find>
+      <find>ensureThumbnail</find>
+      <find>-</find>
+      <find>filename</find>
+      <find>thumb</find>
+      <find>download</find>
+      <find>log</find>
+      <find>DiskStorageOptions</find>
+      <find>multer</find>
+      <find>error</find>
+      <find>multe</find>
+      <find>errorhandler</find>
+      <find>multipart</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\benec\WebstormProjects\imform_dropdown</dir>
+      <dir>C:\Users\benec\WebstormProjects\imform_dropdown\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/views/css/style.css" />
+        <option value="$PROJECT_DIR$/src/views/notIE.html" />
+        <option value="$PROJECT_DIR$/src/views/404.html" />
+        <option value="$PROJECT_DIR$/src/views/js/dropzone.js" />
+        <option value="$PROJECT_DIR$/src/service/Query.ts" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/src/models/CouponTB.ts" />
+        <option value="$PROJECT_DIR$/src/VO/FileVO.ts" />
+        <option value="$PROJECT_DIR$/src/models/FileDB.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/thumbnail/main.js" />
+        <option value="$PROJECT_DIR$/src/views/download.ejs" />
+        <option value="$PROJECT_DIR$/src/controller/download/FileDownloadController.ts" />
+        <option value="$PROJECT_DIR$/src/views/upload.ejs" />
+        <option value="$PROJECT_DIR$/src/controller/upload/FileUploadController.ts" />
+        <option value="$PROJECT_DIR$/src/Main.ts" />
+        <option value="$PROJECT_DIR$/src/controller/MulterController.ts" />
+        <option value="$PROJECT_DIR$/src/routes/Route.ts" />
+        <option value="$PROJECT_DIR$/src/controller/upload/ThumbnailController.ts" />
+        <option value="$PROJECT_DIR$/src/config/database.js" />
+        <option value="$PROJECT_DIR$/src/service/Service.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="launchingSupport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="launchingSupport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="launchingSupport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="launchingSupport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/benec/WebstormProjects/imform_dropdown/src/controller/download/FileDownloadController.ts" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.1.7\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\benec\WebstormProjects\imform_dropdown\src" />
+      <recent name="C:\Users\benec\WebstormProjects\imform_dropdown\src\models" />
+      <recent name="C:\Users\JK\WebstormProjects\imform_dropdown\src\config" />
+      <recent name="C:\Users\JK\WebstormProjects\imform_dropdown\src\views" />
+      <recent name="C:\Users\JK\WebstormProjects\imform_dropdown\src\views\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20ab8e0e-0008-4a86-8964-8c02a3fd7d2e" name="Default" comment="" />
+      <created>1544690537804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544690537804</updated>
+      <workItem from="1544690539008" duration="2354000" />
+      <workItem from="1544696396406" duration="5210000" />
+      <workItem from="1545008120571" duration="7694000" />
+      <workItem from="1545103484637" duration="8000" />
+      <workItem from="1547686582598" duration="162000" />
+      <workItem from="1547690036656" duration="13000" />
+      <workItem from="1547702404653" duration="725000" />
+      <workItem from="1547704047943" duration="788000" />
+      <workItem from="1548052962165" duration="447000" />
+      <workItem from="1548053781545" duration="1320000" />
+      <workItem from="1548059946623" duration="8000" />
+      <workItem from="1548810249074" duration="2794000" />
+      <workItem from="1551166626819" duration="614000" />
+      <workItem from="1554100209951" duration="2882000" />
+      <workItem from="1556507123684" duration="1510000" />
+      <workItem from="1556523649168" duration="143000" />
+      <workItem from="1558593360937" duration="6034000" />
+      <workItem from="1559093748100" duration="44000" />
+      <workItem from="1559108886529" duration="1621000" />
+      <workItem from="1559176612086" duration="612000" />
+      <workItem from="1562288098393" duration="6798000" />
+      <workItem from="1569801976735" duration="4132000" />
+      <workItem from="1570424881471" duration="6319000" />
+      <workItem from="1570507974208" duration="2879000" />
+      <workItem from="1570685791126" duration="4650000" />
+      <workItem from="1570770110683" duration="602000" />
+      <workItem from="1571097702213" duration="13903000" />
+      <workItem from="1571618148267" duration="19550000" />
+      <workItem from="1571702574408" duration="5383000" />
+      <workItem from="1571710428915" duration="13524000" />
+      <workItem from="1571788949468" duration="12591000" />
+      <workItem from="1572588158293" duration="5033000" />
+      <workItem from="1572912710952" duration="790000" />
+    </task>
+    <task id="LOCAL-00001" summary="1) 파일 다운로드 컨트롤러에 ORM ( Sequelize ) 적용&#10;2) FileVO 를 Sequelize 적용시 선언했던, FileDB 모델로 대체">
+      <created>1571703269143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571703269143</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1) 파일 업로드 컨트롤러에 ORM ( Sequelize ) 적용&#10;2) FileVO 를 Sequelize 적용시 선언했던, FileDB 모델로 대체&#10;3) error 발생시 로그 남기는 기능 추가">
+      <created>1571710498503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571710498503</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1) multer 로 서버에 파일 업로드시, 파일 이름은 timestamp 로 생성되도록 수정">
+      <created>1571712364755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571712364755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1) FileVO 부분 삭제 ( Sequelize FileDB 모델로 대체 )">
+      <created>1571712391793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571712391793</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1) 썸네일 경로 수정">
+      <created>1571712422200</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571712422200</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1) Service 부분, Sequelize 로 변경&#10;2) 사용하지 않는 morgan 제거">
+      <created>1571712456089</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571712456089</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1) 리뉴얼용 module 새로 추가&#10;2) typescript 속성 추가&#10;3) thumbnail module, 썸네일 이미지 생성시 파일 이름 부분 변경">
+      <created>1571712659554</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571712659554</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1) Typescript 로 생성된 publish 용 js 업로드">
+      <created>1571712977207</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571712977207</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1) 에러 발생시 로그 기능 삽입을 위해, WinstonLogger 추가">
+      <created>1571713043724</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571713043725</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1) Sequelize Model 추가">
+      <created>1571713077320</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571713077321</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1) 기존 mysql Service 를 ORM ( Sequelize ) 으로 대체">
+      <created>1571713139927</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571713139927</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1) 파일 확장자명 변경 html -&gt; ejs">
+      <created>1571713191236</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571713191236</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1) 사용하지 않는 VO 파일 삭제">
+      <created>1571713251782</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571713251782</updated>
+    </task>
+    <task id="LOCAL-00014" summary="카카오톡 키값 수정">
+      <created>1571790279718</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1571790279718</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="131137000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.3293348" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19968387" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295099" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3576881" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.js" />
+        <option value="$PROJECT_DIR$/src/Main.js.map" />
+        <option value="$PROJECT_DIR$/src/config/Path.js" />
+        <option value="$PROJECT_DIR$/src/config/Path.js.map" />
+        <option value="$PROJECT_DIR$/src/controller/download/FileDownloadController.js" />
+        <option value="$PROJECT_DIR$/src/controller/download/FileDownloadController.js.map" />
+        <option value="$PROJECT_DIR$/src/controller/upload/FileUploadController.js" />
+        <option value="$PROJECT_DIR$/src/controller/upload/FileUploadController.js.map" />
+        <option value="$PROJECT_DIR$/src/controller/upload/ThumbnailController.js" />
+        <option value="$PROJECT_DIR$/src/controller/upload/ThumbnailController.js.map" />
+        <option value="$PROJECT_DIR$/src/controller/MulterController.js" />
+        <option value="$PROJECT_DIR$/src/controller/MulterController.js.map" />
+        <option value="$PROJECT_DIR$/src/util/Guid.js" />
+        <option value="$PROJECT_DIR$/src/util/Guid.js.map" />
+        <option value="$PROJECT_DIR$/src/service/Service.js" />
+        <option value="$PROJECT_DIR$/src/service/Service.js.map" />
+        <option value="$PROJECT_DIR$/src/service/Query.js" />
+        <option value="$PROJECT_DIR$/src/service/Query.js.map" />
+        <option value="$PROJECT_DIR$/src/routes/Route.js" />
+        <option value="$PROJECT_DIR$/src/routes/Route.js.map" />
+        <option value="$PROJECT_DIR$/src/event/Event.js" />
+        <option value="$PROJECT_DIR$/src/event/Event.js.map" />
+        <option value="$PROJECT_DIR$/../file_division/src/FileController/ReadController.js" />
+        <option value="$PROJECT_DIR$/../file_division/src/FileController/ReadController.js.map" />
+        <option value="$PROJECT_DIR$/../file_division/src/FileController/MainController.js" />
+        <option value="$PROJECT_DIR$/../file_division/src/FileController/MainController.js.map" />
+        <option value="$PROJECT_DIR$/../file_division/src/VO/FileVO.js" />
+        <option value="$PROJECT_DIR$/../file_division/src/VO/FileVO.js.map" />
+        <option value="$PROJECT_DIR$/../coupon_server/src/utils/Excel.js" />
+        <option value="$PROJECT_DIR$/../coupon_server/src/utils/Excel.js.map" />
+        <option value="$PROJECT_DIR$/../dongjeonServer/src/routes/BaseRoute.js" />
+        <option value="$PROJECT_DIR$/../dongjeonServer/src/routes/BaseRoute.js.map" />
+        <option value="$PROJECT_DIR$/../dongjeonServer/src/routes/Stores.js.map" />
+        <option value="$PROJECT_DIR$/../dongjeonServer/src/routes/Stores.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1) 파일 다운로드 컨트롤러에 ORM ( Sequelize ) 적용&#10;2) FileVO 를 Sequelize 적용시 선언했던, FileDB 모델로 대체" />
+    <MESSAGE value="1) 파일 업로드 컨트롤러에 ORM ( Sequelize ) 적용&#10;2) FileVO 를 Sequelize 적용시 선언했던, FileDB 모델로 대체&#10;3) error 발생시 로그 남기는 기능 추가" />
+    <MESSAGE value="1) multer 로 서버에 파일 업로드시, 파일 이름은 timestamp 로 생성되도록 수정" />
+    <MESSAGE value="1) FileVO 부분 삭제 ( Sequelize FileDB 모델로 대체 )" />
+    <MESSAGE value="1) 썸네일 경로 수정" />
+    <MESSAGE value="1) Service 부분, Sequelize 로 변경&#10;2) 사용하지 않는 morgan 제거" />
+    <MESSAGE value="1) 리뉴얼용 module 새로 추가&#10;2) typescript 속성 추가&#10;3) thumbnail module, 썸네일 이미지 생성시 파일 이름 부분 변경" />
+    <MESSAGE value="1) Typescript 로 생성된 publish 용 js 업로드" />
+    <MESSAGE value="1) 에러 발생시 로그 기능 삽입을 위해, WinstonLogger 추가" />
+    <MESSAGE value="1) Sequelize Model 추가" />
+    <MESSAGE value="1) 기존 mysql Service 를 ORM ( Sequelize ) 으로 대체" />
+    <MESSAGE value="1) 파일 확장자명 변경 html -&gt; ejs" />
+    <MESSAGE value="1) 사용하지 않는 VO 파일 삭제" />
+    <MESSAGE value="카카오톡 키값 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="카카오톡 키값 수정" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/event/Event.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="29" column="75" lean-forward="true" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uploads/bbb8e8180611195abdd492c0152dc043" />
+    <entry file="file://$PROJECT_DIR$/src/uploads/7a4fede96de96580eab8d59b7a3cc24e" />
+    <entry file="file://$PROJECT_DIR$/src/uploads/18b91923c2419632f2e3841f40a428a2" />
+    <entry file="file://$PROJECT_DIR$/ignore.gitignore" />
+    <entry file="file://$PROJECT_DIR$/src/views/notIE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/loginConfirm.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log/WinstonLogger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/Query.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/upload/FileUploadController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="60" column="73" lean-forward="true" selection-start-line="60" selection-start-column="73" selection-end-line="60" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Guid.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/sequelize-typescript/lib/models/Model.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="329" column="9" selection-start-line="329" selection-start-column="9" selection-end-line="329" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VO/UserVO.ts" />
+    <entry file="file://$PROJECT_DIR$/src/controller/upload/ThumbnailController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="105" lean-forward="true" selection-start-line="21" selection-start-column="105" selection-end-line="21" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/MulterController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="114" selection-start-line="26" selection-start-column="114" selection-end-line="26" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/node/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="5522" column="20" selection-start-line="5522" selection-start-column="20" selection-end-line="5522" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uploads/1571705836300.png" />
+    <entry file="file://$PROJECT_DIR$/JetBrains.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/thumbnail/test/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/download/FileDownloadController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/Path.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/thumbnail/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="67" column="33" lean-forward="true" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VO/FileVO.ts" />
+    <entry file="file://$PROJECT_DIR$/src/log/WinstonLogger.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/download.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/404.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/FileDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/express-serve-static-core/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/multer/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/errorhandler/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1653" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uploads/thumbnail/imform.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/Route.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/Route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/FileDB.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="39" column="63" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/download/FileDownloadController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/upload/FileUploadController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/upload/ThumbnailController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/MulterController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/js/dropzone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61467">
+          <caret line="356" column="35" lean-forward="true" selection-start-line="356" selection-start-column="35" selection-end-line="356" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/Route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/upload.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/Service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="72" lean-forward="true" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
